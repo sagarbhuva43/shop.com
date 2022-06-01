@@ -35,8 +35,41 @@ Team Members and Contributors 😇 :
 
 Link to the website :
 
-https://colneshopdotcom.netlify.app
+
 
 For Payment: Enter 123 as card number, 123 as CVV and 12/25 for expiry date. For OTP: Enter 1234.
+
+
+## Important Links
+<a href="https://colneshopdotcom.netlify.app">Netlify Deployment</a>
+<br>
+<a href="https://medium.com/@bhuvasagar632/a-clone-of-the-website-shop-com-by-web15-cohort-students-from-masai-school-adf8b1369417">Project blog</a>
+<br>
+## Screenshots
+- Home Page
+
+![Home page](https://miro.medium.com/max/875/0*SJWl-8tPwCQYSJDD.png)
+
+- Sign Up
+
+![Sign Up](https://i.imgur.com/qDeTKo5.png)
+
+- login page
+-
+![login page](https://miro.medium.com/max/875/0*0VXMvcjodfsY2ZL6.png)
+
+- Product's Page
+
+![Search Result Page](https://miro.medium.com/max/875/0*lT7Nj3zv2HwUL_5h.png)
+
+- cart Page
+
+![Booking Page](https://miro.medium.com/max/875/0*CE5GGjCr11ololnw.png)
+
+- Address Payment and OTP Page
+
+![Checkout Page](https://miro.medium.com/max/875/0*SL6xfI9K2Pnf00H_.png)
+![Checkout Page](https://miro.medium.com/max/875/0*wbW0mdS7PHdM84_4.png)
+![Checkout Page](https://miro.medium.com/max/875/0*BUNjzte6DlMAjwV_.png)
  
 
