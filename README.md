@@ -1,6 +1,6 @@
-# Travelocity-Clone
+# Clone of Shop.Com
 
-![Logo](https://logos-download.com/wp-content/uploads/2019/01/Travelocity_Logo.png)
+![Logo](https://photos.prnewswire.com/prnfull/20160203/329188LOGO)
 
 # About
 
