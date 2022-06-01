@@ -50,12 +50,8 @@ For Payment: Enter 123 as card number, 123 as CVV and 12/25 for expiry date. For
 
 ![Home page](https://miro.medium.com/max/875/0*SJWl-8tPwCQYSJDD.png)
 
-- Sign Up
-
-![Sign Up](https://i.imgur.com/qDeTKo5.png)
-
 - login page
--
+
 ![login page](https://miro.medium.com/max/875/0*0VXMvcjodfsY2ZL6.png)
 
 - Product's Page
